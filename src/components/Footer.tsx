@@ -4,17 +4,17 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-slate-900 text-white py-12 relative overflow-hidden">
-      <div className="absolute inset-0 bg-gradient-to-br from-blue-500/5 to-cyan-500/5" />
+    <footer className="bg-slate-950 text-white py-12 relative overflow-hidden border-t border-slate-900">
+      <div className="absolute inset-0 bg-gradient-to-br from-blue-500/5 via-cyan-500/5 to-teal-500/5" />
 
       <div className="container mx-auto px-4 max-w-6xl relative z-10">
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
-            <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 text-transparent bg-clip-text mb-4">
-              Portfolio
+            <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 text-transparent bg-clip-text mb-4">
+              Portfolio 3D
             </h3>
             <p className="text-slate-400 leading-relaxed">
-              Développeur passionné créant des expériences web modernes et interactives.
+              Création d'expériences web 3D immersives avec Three.js et React.
             </p>
           </div>
 
@@ -75,7 +75,7 @@ export default function Footer() {
               {currentYear} Portfolio. Tous droits réservés.
             </p>
             <p className="text-slate-400 text-sm flex items-center gap-2">
-              Créé avec <Heart className="w-4 h-4 text-red-500 fill-current" /> en utilisant React & Tailwind
+              Créé avec <Heart className="w-4 h-4 text-red-500 fill-current" /> React, Three.js & Tailwind
             </p>
           </div>
         </div>
