@@ -42,15 +42,15 @@ function SkillCube({ position, label, index, image }: { position: [number, numbe
 
 function SkillsScene() {
   const skills = [
-    { label: 'React', /*color: '#000000ff'*/ position: [-3, 2, 0] as [number, number, number], image: 'src/images/front-development.png' },
-    { label: 'Three.js', color: '#049ef4', position: [0, 2, 0] as [number, number, number], image: 'src/images/database-storage.png' },
-    { label: 'TypeScript', color: '#3178c6', position: [3, 2, 0] as [number, number, number], image: 'src/images/illustration.png' },
-    { label: 'Node.js', color: '#68a063', position: [-3, 0, 0] as [number, number, number], image: 'src/images/game-console.png' },
-    { label: 'Next.js', color: '#ffffff', position: [0, 0, 0] as [number, number, number], image: 'src/images/online-analytical.png' },
-    { label: 'Python', color: '#ffd43b', position: [3, 0, 0] as [number, number, number], image: 'src/images/programming.png' },
-    { label: 'Docker', color: '#2496ed', position: [-3, -2, 0] as [number, number, number], image: 'src/images/coordinator.png' },
-    { label: 'Git', color: '#f05032', position: [0, -2, 0] as [number, number, number], image: 'src/images/smartphone.png' },
-    { label: 'Tailwind', color: '#06b6d4', position: [3, -2, 0] as [number, number, number], image: 'src/images/cooperation.png' },
+    { label: 'React', /*color: '#000000ff'*/ position: [-3, 2, 0] as [number, number, number], image: '/images/front-development.png' },
+    { label: 'Three.js', color: '#049ef4', position: [0, 2, 0] as [number, number, number], image: '/images/database-storage.png' },
+    { label: 'TypeScript', color: '#3178c6', position: [3, 2, 0] as [number, number, number], image: '/images/illustration.png' },
+    { label: 'Node.js', color: '#68a063', position: [-3, 0, 0] as [number, number, number], image: '/images/game-console.png' },
+    { label: 'Next.js', color: '#ffffff', position: [0, 0, 0] as [number, number, number], image: '/images/online-analytical.png' },
+    { label: 'Python', color: '#ffd43b', position: [3, 0, 0] as [number, number, number], image: '/images/programming.png' },
+    { label: 'Docker', color: '#2496ed', position: [-3, -2, 0] as [number, number, number], image: '/images/coordinator.png' },
+    { label: 'Git', color: '#f05032', position: [0, -2, 0] as [number, number, number], image: '/images/smartphone.png' },
+    { label: 'Tailwind', color: '#06b6d4', position: [3, -2, 0] as [number, number, number], image: '/images/cooperation.png' },
   ];
 
   return (

@@ -51,7 +51,7 @@ export default function Projects3D() {
     {
       title: 'Moodly',
       description: 'Application de mood tracking destinées aux entreprises',
-      image: 'src/images/moodly.png',
+      image: '/images/moodly.png',
       tags: ['React Native', 'Express js', 'Mongo db', 'REST API'],
       github: 'https://github.com/Guezinho69/Moodly"',
       demo: '#',
@@ -60,7 +60,7 @@ export default function Projects3D() {
     {
       title: 'LINGUAXPLORE',
       description: 'Jeu en réalité virtuelle pour l\'apprentissage des langues, V1 réalisée sur Unreal Engine',
-      image: 'src/images/LXP.png',
+      image: '/images/LXP.png',
       tags: ['Unreal Engine', 'Blueprint', 'Blender'],
       github: 'https://mega.nz/file/2JMmyRAY',
       demo: 'https://example.com',
@@ -70,7 +70,7 @@ export default function Projects3D() {
     {
       title: 'Train Your Lawyer',
       description: 'Plateforme d\'E-learning destinée aux étudiants en droit (Benin)',
-      image: 'src/images/tyl.png',
+      image: '/images/tyl.png',
       tags: ['Vue js', 'Nest js', 'MySQL'],
       github: 'https://github.com/heritier06/Train-your-Lawyer-Web',
       demo: 'https://example.com',
@@ -79,7 +79,7 @@ export default function Projects3D() {
     {
       title: 'Obibet',
       description: 'App mobile de paris sportfs',
-      image: 'src/images/ChatGPT Image 30 sept. 2025, 19_01_34.png',
+      image: '/images/ChatGPT Image 30 sept. 2025, 19_01_34.png',
       tags: ['React Native', 'Express js', 'Mongodb', 'Node.js'],
       github: 'https://github.com/Guezinho69/Obibet',
       demo: 'https://example.com',
