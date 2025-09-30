@@ -11,10 +11,10 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 text-transparent bg-clip-text mb-4">
-              Portfolio 3D
+              Portfolio Obinna
             </h3>
             <p className="text-slate-400 leading-relaxed">
-              Création d'expériences web 3D immersives avec Three.js et React.
+             Chef de projet et Développeur
             </p>
           </div>
 
@@ -44,7 +44,7 @@ export default function Footer() {
             <h4 className="text-lg font-semibold mb-4">Réseaux</h4>
             <div className="flex gap-4">
               <a
-                href="https://github.com/votreusername"
+                href="https://github.com/Guezinho69"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-slate-800 rounded-lg hover:bg-slate-700 hover:scale-110 transition-all duration-300"
@@ -52,7 +52,7 @@ export default function Footer() {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com/in/votreprofil"
+                href="https://www.linkedin.com/in/obinna-houngnibo-3114ba371"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-slate-800 rounded-lg hover:bg-slate-700 hover:scale-110 transition-all duration-300"
@@ -60,7 +60,7 @@ export default function Footer() {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:votre@email.com"
+                href="mailto:houngniboobinna22012004@gmail.com"
                 className="p-3 bg-slate-800 rounded-lg hover:bg-slate-700 hover:scale-110 transition-all duration-300"
               >
                 <Mail className="w-5 h-5" />
@@ -75,7 +75,7 @@ export default function Footer() {
               {currentYear} Portfolio. Tous droits réservés.
             </p>
             <p className="text-slate-400 text-sm flex items-center gap-2">
-              Créé avec <Heart className="w-4 h-4 text-red-500 fill-current" /> React, Three.js & Tailwind
+              Créé avec <Heart className="w-4 h-4 text-red-500 fill-current" /> par moi même évidement ! 
             </p>
           </div>
         </div>

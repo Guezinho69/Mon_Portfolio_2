@@ -78,20 +78,20 @@ export default function Contact3D() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'votre@email.com',
-      link: 'mailto:votre@email.com',
+      value: 'houngniboobinna22012004@gmail.com',
+      link: 'mailto:houngniboobinna22012004@gmail.com',
     },
     {
       icon: MapPin,
       title: 'Localisation',
-      value: 'Paris, France',
+      value: 'Bron, France',
       link: null,
     },
     {
       icon: Phone,
       title: 'Téléphone',
-      value: '+33 6 12 34 56 78',
-      link: 'tel:+33612345678',
+      value: '+33 7 44 41 30 05',
+      link: 'tel:+33744413005',
     },
   ];
 

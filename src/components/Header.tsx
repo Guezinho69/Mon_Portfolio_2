@@ -57,7 +57,7 @@ export default function Header() {
             onClick={() => scrollToSection('home')}
             className="text-2xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 text-transparent bg-clip-text hover:scale-105 transition-transform"
           >
-            Portfolio 3D
+            Portfolio
           </button>
 
           <div className="hidden md:flex items-center gap-1">

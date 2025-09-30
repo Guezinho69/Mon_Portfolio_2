@@ -23,7 +23,7 @@ export default function About3D() {
   const features = [
     {
       icon: Code2,
-      title: 'Développement 3D',
+      title: 'Développement Web et mobile',
       description: 'Création d\'expériences web immersives avec Three.js et WebGL',
     },
     {
@@ -38,8 +38,8 @@ export default function About3D() {
     },
     {
       icon: Award,
-      title: 'Excellence',
-      description: 'Code de qualité professionnelle et bonnes pratiques',
+      title: 'Gestion de projet',
+      description: 'Organisation efficiente afin de mener a bien des projets',
     },
     {
       icon: Sparkles,
@@ -71,8 +71,8 @@ export default function About3D() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 via-cyan-500 to-teal-500 mx-auto mb-6" />
           <p className="text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            Développeur passionné spécialisé dans la création d'expériences web 3D immersives.
-            Je transforme des concepts créatifs en réalités digitales captivantes.
+            Passionné de tech j'aimerais me spécialiser en IA et transformation digitale, Pour ainsi
+            changer des concepts créatifs en réalités digitales efficaces.
           </p>
         </div>
 
@@ -114,13 +114,13 @@ export default function About3D() {
             <div className="grid md:grid-cols-3 gap-8 text-center">
               <div className="group">
                 <div className="text-5xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 text-transparent bg-clip-text mb-2 group-hover:scale-110 transition-transform">
-                  5+
+                  3+
                 </div>
                 <div className="text-slate-400 group-hover:text-slate-300 transition-colors">Années d'expérience</div>
               </div>
               <div className="group">
                 <div className="text-5xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 text-transparent bg-clip-text mb-2 group-hover:scale-110 transition-transform">
-                  50+
+                  30+
                 </div>
                 <div className="text-slate-400 group-hover:text-slate-300 transition-colors">Projets 3D complétés</div>
               </div>

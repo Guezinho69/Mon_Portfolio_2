@@ -41,24 +41,24 @@ export default function Hero3D() {
       <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
         <div className="mb-8 animate-fade-in">
           <h1 className="text-6xl md:text-8xl font-bold text-white mb-4 tracking-tight">
-            <span className="inline-block hover:scale-110 transition-transform duration-300">Votre</span>{' '}
+            <span className="inline-block hover:scale-110 transition-transform duration-300">Obinna</span>{' '}
             <span className="inline-block bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 text-transparent bg-clip-text hover:scale-110 transition-transform duration-300 animate-gradient">
-              Nom
+              HOUNGNIBO
             </span>
           </h1>
         </div>
 
         <p className="text-2xl md:text-3xl text-slate-300 mb-4 font-light animate-fade-in-delay-1">
-          Développeur Full Stack & Créatif 3D
+          Chef de projet informatique, Développeur et Passionné d'innovation
         </p>
 
         <p className="text-lg text-slate-400 mb-12 max-w-2xl mx-auto animate-fade-in-delay-2">
-          Création d'expériences web immersives avec Three.js et technologies modernes
+          "Salid y Disfrutad"
         </p>
 
         <div className="flex gap-6 justify-center mb-12 animate-fade-in-delay-3">
           <a
-            href="https://github.com/votreusername"
+            href="https://github.com/Guezinho69"
             target="_blank"
             rel="noopener noreferrer"
             className="group p-4 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:border-blue-400/50 hover:bg-white/10 transition-all duration-300 hover:scale-110 hover:rotate-12"
@@ -66,7 +66,7 @@ export default function Hero3D() {
             <Github className="w-6 h-6 text-slate-300 group-hover:text-blue-400 transition-colors" />
           </a>
           <a
-            href="https://linkedin.com/in/votreprofil"
+            href="https://www.linkedin.com/in/obinna-houngnibo-3114ba371"
             target="_blank"
             rel="noopener noreferrer"
             className="group p-4 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:border-blue-400/50 hover:bg-white/10 transition-all duration-300 hover:scale-110 hover:rotate-12"
@@ -74,7 +74,7 @@ export default function Hero3D() {
             <Linkedin className="w-6 h-6 text-slate-300 group-hover:text-blue-400 transition-colors" />
           </a>
           <a
-            href="mailto:votre@email.com"
+            href="mailto:houngniboobinna22012004@gmail.com"
             className="group p-4 bg-white/5 backdrop-blur-sm rounded-full border border-white/10 hover:border-blue-400/50 hover:bg-white/10 transition-all duration-300 hover:scale-110 hover:rotate-12"
           >
             <Mail className="w-6 h-6 text-slate-300 group-hover:text-blue-400 transition-colors" />
