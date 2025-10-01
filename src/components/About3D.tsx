@@ -71,7 +71,7 @@ export default function About3D() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 via-cyan-500 to-teal-500 mx-auto mb-6" />
           <p className="text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            Passionné de technologies et d'innovation, je suis toujours prêt à apprendre et a travaller sur des projets stimulants.
+            Passionné de technologies et d'innovation, je suis toujours prêt à apprendre et à travailler sur des projets stimulants.
             Mes domaines d'expertise :
           </p>
         </div>
