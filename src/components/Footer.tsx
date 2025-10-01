@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 text-transparent bg-clip-text mb-4">
-              Portfolio Obinna
+              Obinna Houngnibo
             </h3>
             <p className="text-slate-400 leading-relaxed">
              Chef de projet et Développeur
@@ -72,7 +72,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-slate-800">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-slate-400 text-sm">
-              {currentYear} Portfolio. Tous droits réservés.
+              {currentYear} Obinna Houngnibo. Tous droits réservés.
             </p>
             <p className="text-slate-400 text-sm flex items-center gap-2">
               Créé avec <Heart className="w-4 h-4 text-red-500 fill-current" /> par moi même évidement ! 

@@ -24,7 +24,7 @@ export default function About3D() {
     {
       icon: Code2,
       title: 'Développement Web et mobile',
-      description: 'Création d\'expériences web immersives avec Three.js et WebGL',
+      description: 'Création de solutions web et mobiles efficaces',
     },
     {
       icon: Palette,
@@ -71,8 +71,8 @@ export default function About3D() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 via-cyan-500 to-teal-500 mx-auto mb-6" />
           <p className="text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            Passionné de tech j'aimerais me spécialiser en IA et transformation digitale, Pour ainsi
-            changer des concepts créatifs en réalités digitales efficaces.
+            Passionné de technologies et d'innovation, je suis toujours prêt à apprendre et a travaller sur des projets stimulants.
+            Mes domaines d'expertise :
           </p>
         </div>
 
@@ -122,7 +122,7 @@ export default function About3D() {
                 <div className="text-5xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 text-transparent bg-clip-text mb-2 group-hover:scale-110 transition-transform">
                   30+
                 </div>
-                <div className="text-slate-400 group-hover:text-slate-300 transition-colors">Projets 3D complétés</div>
+                <div className="text-slate-400 group-hover:text-slate-300 transition-colors">Projets complétés</div>
               </div>
               <div className="group">
                 <div className="text-5xl font-bold bg-gradient-to-r from-blue-400 via-cyan-400 to-teal-400 text-transparent bg-clip-text mb-2 group-hover:scale-110 transition-transform">

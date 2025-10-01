@@ -104,12 +104,12 @@ export default function Skills3D() {
   const skillCategories = [
     {
       title: 'Frontend',
-      skills: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Three.js'],
+      skills: ['React', 'Vue.js', 'TypeScript', 'Tailwind CSS', 'Three.js'],
       color: 'from-blue-500 to-cyan-500',
     },
     {
       title: 'Backend',
-      skills: ['Node.js', 'Python', 'PostgreSQL', 'API REST', 'Docker'],
+      skills: ['Node.js', 'Python', 'PostgreSQL', 'API REST'],
       color: 'from-green-500 to-emerald-500',
     },
     {

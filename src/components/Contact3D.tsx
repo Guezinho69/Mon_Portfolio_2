@@ -113,7 +113,7 @@ export default function Contact3D() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 via-cyan-500 to-teal-500 mx-auto mb-6" />
           <p className="text-xl text-slate-300 max-w-3xl mx-auto">
-            Une idée de projet 3D ? Discutons-en ensemble
+            Une idée de projet ? Discutons-en ensemble
           </p>
         </div>
 
